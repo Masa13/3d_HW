@@ -1,0 +1,20 @@
+torus
+100 100 24 80
+torus
+375 100 24 80
+torus
+150 0 15 80
+torus
+150 200 15 80
+torus
+300 0 50 100
+torus
+300 200 50 100
+ident
+zrotate
+90
+yrotate
+90
+apply
+display
+quit
